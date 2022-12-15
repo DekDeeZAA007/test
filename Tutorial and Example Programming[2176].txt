@@ -1,0 +1,22 @@
+
+Creating an ASP.NET Core CRUD Web API with Dapper and PostgreSQL
+https://www.syncfusion.com/blogs/post/creating-an-asp-net-core-crud-web-api-with-dapper-and-postgresql.aspx
+
+Serilog
+https://procodeguide.com/programming/aspnet-core-logging-with-serilog/
+https://code-maze.com/structured-logging-in-asp-net-core-with-serilog/
+https://codingsonata.com/logging-with-serilog-in-asp-net-core-web-api/
+
+Automapper
+https://thecodeblogger.com/2021/06/17/configure-automapper-for-asp-net-core-api-app/
+
+DI:
+https://www.somkiat.cc/let-start-with-dependency-injection/
+
+EF:
+https://www.learmoreseekmore.com/2021/12/dotnet6-web-api-crud-operation-with-entity-frameworkcore.html
+
+Summary tutorial
+https://medium.com/t-t-software-solution/%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B9%80%E0%B8%99%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AB%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%9A-asp-net-core-ac94c7315137
+
+
